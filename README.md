@@ -1,13 +1,13 @@
 
 # C++ Data Structures and Algorithm Analysis 🚀
 
-📌 Overview
+## 📌 Overview
 
 This repository contains various C++ programs that demonstrate fundamental data structures, algorithmic problem-solving, and basic computations. Each folder represents a standalone project focused on a specific topic, ranging from mathematical operations to game development.
 
-📂 Project List
+## 📂 Project List
 
-🔢 Mathematical Computations
+### 🔢 Mathematical Computations
 
 Grade Computation – Calculates student grades based on given inputs.
 
@@ -18,7 +18,7 @@ Hypotenuse – Finds the hypotenuse of a right-angled triangle using the Pythago
 
 Volume – Calculates the volume of different geometrical shapes.
 
-🔄 Data Handling & Transformations
+### 🔄 Data Handling & Transformations
 
 Table of Values – Generates and prints a mathematical table of values.
 
@@ -33,7 +33,7 @@ Averages – Computes averages from a dataset.
 
 Occurrences – Finds occurrences of elements in a dataset.
 
-🔐 Security & Encryption
+### 🔐 Security & Encryption
 
 Encrypt – Implements basic encryption and decryption techniques.
 🎮 Interactive Applications
@@ -44,9 +44,10 @@ Hotel Booking System – Simulates a basic hotel booking and reservation system.
 
 Inventory – Implements an inventory management system.
 
-🛠️ Miscellaneous
+### 🛠️ Miscellaneous
 
 funcex – A collection of function-based exercises.
+
 ## 🛠 Skills
 C++
 
